@@ -10,7 +10,7 @@
   "resources": {
     "assembly": {
       "Blazored.Modal.dll": "sha256-yoXX75RsqCVb+q2v0ZS7Hd6lW+OeSPHHPyJBk\/AyYMg=",
-      "IconsDiscord.dll": "sha256-wcEEzJQVxqIzoseJ3\/wnB21ADggNUs\/4y7Q9dIwuyds=",
+      "IconsDiscord.dll": "sha256-flNQWCbLH+5fc+cTH76XBZB3MwsX5xxsct8SwgDQ\/t4=",
       "Microsoft.AspNetCore.Authentication.Abstractions.dll": "sha256-iw51tdKcETC5QqlJLWett1iPlLZgUrRdZfkV7EoaD4k=",
       "Microsoft.AspNetCore.Authentication.Cookies.dll": "sha256-VDcv3ZqqpPe4a8zkNMrMe5pl\/fQhlbcaMRAhwL5Z10s=",
       "Microsoft.AspNetCore.Authentication.Core.dll": "sha256-NP2svkDxlIVJsMiWAmj552NCYo4j7YnOUr2+jkz5+pc=",
