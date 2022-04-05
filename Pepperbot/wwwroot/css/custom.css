@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.txt {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
